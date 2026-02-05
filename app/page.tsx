@@ -81,6 +81,7 @@ export default function HomePage() {
                   alt="Hotel Management"
                   fill
                   className="object-cover"
+                  loading="eager"
                 />
               </div>
               <div>
